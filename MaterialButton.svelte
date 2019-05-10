@@ -1,5 +1,5 @@
 <style>
-	.pure-material-button-contained {
+    .pure-material-button-contained {
         position: relative;
         display: inline-block;
         box-sizing: border-box;
@@ -115,6 +115,6 @@
 </style>
 
 <button class="pure-material-button-contained"
-		on:click>
-	<slot></slot>
+	on:click>
+    <slot></slot>
 </button>
