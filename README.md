@@ -1,2 +1,3 @@
 # svetle-simple-material-ui-button
-one button component as svetle3 sample
+
+Material UI designed sample of svetle button component with custom content
